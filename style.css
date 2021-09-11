@@ -22,4 +22,9 @@ body {
 .search .input {
   background-color: #fff;
   border: 0;
+  font-size: 18px;
+  padding: 15px;
+  width: 50px;
+  height: 50;
+  transition: width 0.3s ease;
 }
