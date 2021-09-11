@@ -28,3 +28,7 @@ body {
   height: 50;
   transition: width 0.3s ease;
 }
+
+.btn {
+  background-color: #fff;
+}
